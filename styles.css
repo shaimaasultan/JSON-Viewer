@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+}
+
+#jsonFileInput {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #eee;
+}
+.highlight {
+  background-color: gold;
+  color: black;
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+thead tr:first-child input {
+  font-weight: normal;
+  background-color: black;
+  color: gold;
+  border: 1px solid gold;
+}
+
+thead tr:first-child {
+  background-color: #111; /* darker than header */
+}
+
+thead tr:nth-child(2) {
+  background-color: #222; /* actual header row */
+  font-weight: bold;
+}
+#applyFiltersBtn,
+#clearFiltersBtn  {
+  background-color: black;
+  color: gold;
+  border: 1px solid gold;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
