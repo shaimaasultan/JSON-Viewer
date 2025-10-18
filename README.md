@@ -29,7 +29,8 @@ Open JsonViewer.html in your browser.
 
 Load your .json log file and start exploring.
 <!-- Embed your screenshot here -->
-<img src="./screenshots/json_viewer_main.png" alt="JSON Viewer Screenshot">
+<img src="Screenshot 2025-10-17 224832.png" alt="JSON Viewer Screenshot">
+<img src="Screenshot 2025-10-17 224821.png" alt="JSON Viewer Screenshot">
 🧠 Use Cases
 Forensic log analysis with emoji-coded severity
 
